@@ -1,0 +1,7 @@
+AA01,JD Supplier
+AA02,7 Street Store
+AA03,FootLocker
+AA04,Hyper Street
+AA05,Hype
+AA06,Atmos
+AA07,Chicago

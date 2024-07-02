@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Supplier
+comment1.params=
+comment1.target=Supplier()
+comment2.params=supplierId\ supplierName
+comment2.target=Supplier(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getSupplierId()
+comment4.params=
+comment4.target=java.lang.String\ getSupplierName()
+comment5.params=supplierId
+comment5.target=void\ setSupplierId(java.lang.String)
+comment6.params=supplierName
+comment6.target=void\ setSupplierName(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,11 @@
+Products with Quantity Below 10:
+---------------------------------------------------
+005,Adidas Gazelle,Hyper Street,159.0,4
+004,Nike dunk low chicago,JD Supplier,499.0,7
+
+Products with Quantity 10 and Above:
+---------------------------------------------------
+002,Adidas Samba ,7 Street Store,259.0,10
+006,Asics Gel Hydro,Hyper Street,599.0,10
+001,AJ1 Court Purple Low,Atmos,350.0,30
+003,Aj1 Blue Obsidian,Hyper Street,259.0,90
